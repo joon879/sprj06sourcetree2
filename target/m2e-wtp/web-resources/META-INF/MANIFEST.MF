@@ -1,9 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
-Built-By: goott4
-=======
 Built-By: oreho
->>>>>>> 7a57f83c6e5bfceca26fbcc2cb4cdb868cc46e1d
 Build-Jdk: 11.0.18
 Created-By: Maven Integration for Eclipse
 
